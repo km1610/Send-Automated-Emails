@@ -1,4 +1,7 @@
 # Send-Automated-Emails
+The Email Sending Program is a Python script designed to automate the process of sending personalized emails to a list of recipients using Gmail. It makes use of the smtplib library to establish an SMTP connection with a Gmail account, allowing the program to send emails. The script reads recipient data from a CSV file and uses a customizable message template to create individualized email messages for each recipient.
+
+
 This README will guide you through running the provided Python script for sending emails using the `smtplib` library. It also includes steps to resolve the "username and password not accepted" issue.
 
 ### Prerequisites
